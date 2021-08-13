@@ -8,7 +8,7 @@ Working with:
 
 Tools im currenctly working with:
 <ul>
-  <li><a href="https://nodered.org/">Node-RED</a><li>
+  <li><img height="20" src="https://nodered.org/about/resources/media/node-red-icon.svg"><a href="https://nodered.org/">Node-RED</a><li>
 </ul>
 
 Me:
