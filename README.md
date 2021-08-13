@@ -1,10 +1,3 @@
-<style>
-  .white-box {
-    background-color: white
-  }
-</style>
-### Hi there <div class="white-box"><img align="left" alt="Github Logo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"/></div>
-
 Im a student and hobby programmer.
 
 Working with:
