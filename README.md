@@ -10,7 +10,7 @@ Working with:
 
 Tools im currenctly working with:
 <ul>
-  <li>Node-RED<li>
+  <li>[Node-RED](https://nodered.org/)<li>
 
 Me:
 <ul>
