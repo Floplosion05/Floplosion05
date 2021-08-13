@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img align="left" alt="Github Logo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"/>
 
 Im a student and hobby programmer.
 
