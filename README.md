@@ -10,4 +10,4 @@ Contact:
 <ul>
   <li>SQAT | Floplosion05#9866></li>
 </ul>
-[![GitHub Floplosion05]
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Floplosion05&show_icons=true&theme=gotham" alt="Floplosion05" />
