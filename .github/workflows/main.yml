@@ -14,4 +14,4 @@
         - uses: actions/checkout@v2
         - uses: abhisheknaiidu/todoist-readme@master
           with:
-            TODOIST_API_KEY: $bf7253d39465cd5e009f93d8680165196d19e26d
+            TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
