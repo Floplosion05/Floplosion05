@@ -12,6 +12,9 @@ Tools im currenctly working with:
   <li><a href="https://nodered.org/"><img align="left" alt="VS-Code Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">VS-Code</a></li>
 </ul>
 
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 Me:
 <ul>
   <li><img align="left" alt="Floplosion05's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>SQAT | Floplosion05#9866></li>
