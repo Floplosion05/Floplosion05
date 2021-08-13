@@ -14,6 +14,6 @@ Tools im currenctly working with:
 
 Contact:
 <ul>
-  <li>SQAT | Floplosion05#9866></li>
+  <li><img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />SQAT | Floplosion05#9866></li>
 </ul>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Floplosion05&show_icons=true&theme=gotham" alt="Floplosion05" />
