@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Im a student and hobby programmer. Mostly in Python, Node-Js and C i try to automate stuff arounf my house.
+
+[SQAT | Floplosion05#9866]
 <!--
 **Floplosion05/Floplosion05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
