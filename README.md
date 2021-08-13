@@ -9,11 +9,12 @@ Working with:
 Tools im currenctly working with:
 <ul>
   <li><a href="https://nodered.org/"><img align="left" alt="Node-RED Logo" width="22px" src="https://nodered.org/about/resources/media/node-red-icon.svg">Node-RED</a><li>
+  <li><a href="https://nodered.org/"><img align="left" alt="Node-RED Logo" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AVisual_Studio_Code_1.35_icon.svg">VS-Code</a><li>
 </ul>
 
 Me:
 <ul>
-  <li><img align="left" alt="Floplosion05's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>SQAT | Floplosion05#9866></li>
+  <li><a href=""><img align="left" alt="Floplosion05's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>SQAT | Floplosion05#9866></li>
   <li><a href="https://open.spotify.com/user/6fm588djfm9sufr408wvd5w7a?si=c2b48983dc664985"><img align="left" alt="Floplosion05's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"/></a>Floplosion05
 </ul>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Floplosion05&show_icons=true&theme=gotham" alt="Floplosion05"/>
