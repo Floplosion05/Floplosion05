@@ -1,8 +1,9 @@
 # About me
 Im a student and 
-self-taught hobby programmer. Im currently automating everything i can around my house with Microncontrollers such as the ESP8266/32 and devices called [Shelly](https://shelly.cloud/).<p> <img src="https://github-readme-stats.vercel.app/api?username=Floplosion05&show_icons=true&theme=gotham" alt="Floplosion05"/>
+self-taught hobby programmer. Im currently automating everything i can around my house with Microncontrollers such as the ESP8266/32 and devices called [Shelly](https://shelly.cloud/) and my Raspberry Pi 4 and Raspberry Pi 2B running [Node-RED](https://nodered.org/) and [Mosquitto](https://mosquitto.org/) as central "server's" to handle sensor-readings from the microcontrollers, host a web-interface to control them and direct the right commands to the right microcontrollers.
+<p><img src="https://github-readme-stats.vercel.app/api?username=Floplosion05&show_icons=true&theme=gotham" alt="Floplosion05"/>
 
-  # Coding in
+# Coding in
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
