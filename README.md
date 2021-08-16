@@ -1,6 +1,6 @@
 # About me
 Im a student and 
-self-taught hobby programmer. Im currently automating everything i can around my house with Microncontrollers such as the ESP8266/32 or devices called [Shelly](https://shelly.cloud/).<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Floplosion05&show_icons=true&theme=gotham" alt="Floplosion05"/>
+self-taught hobby programmer. Im currently automating everything i can around my house with Microncontrollers such as the ESP8266/32 or devices called [Shelly](https://shelly.cloud/).<p> <img src="https://github-readme-stats.vercel.app/api?username=Floplosion05&show_icons=true&theme=gotham" alt="Floplosion05"/>
 
   # Coding in
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
