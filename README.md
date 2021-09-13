@@ -17,10 +17,10 @@ self-taught hobby programmer. Im currently automating everything i can around my
 
 # Todoist Stats
 <!-- TODO-IST:START -->
-🏆  2,312 Karma Points           
-🌸  Completed 4 tasks today           
-🗓  Completed 4 tasks this week           
-✅  Completed 60 tasks so far           
+🏆  2,355 Karma Points           
+🌸  Completed 5 tasks today           
+🗓  Completed 5 tasks this week           
+✅  Completed 61 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
