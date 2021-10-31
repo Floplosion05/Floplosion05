@@ -19,7 +19,7 @@ self-taught hobby programmer. Im currently automating everything i can around my
 <!-- TODO-IST:START -->
 🏆  3,076 Karma Points           
 🌸  Completed 0 tasks today           
-🗓  Completed 6 tasks this week           
+🗓  Completed 0 tasks this week           
 ✅  Completed 103 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
