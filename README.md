@@ -17,15 +17,6 @@ self-taught hobby programmer. Im currently automating everything i can around my
   <li><a href="https://code.visualstudio.com/"><img align="left" alt="VS-Code Logo" width="22px" src="https://raw.githubusercontent.com/Floplosion05/Floplosion05/master/assets/vscode.svg">VS-Code</a></li>
 </ul>
 
-# Todoist Stats
-<!-- TODO-IST:START -->
-🏆  3,484 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 135 tasks so far           
-⏳  Longest streak is 1 days
-<!-- TODO-IST:END -->
-
 # Social
 <ul>
   <li><a href="https://www.discord.com"><img align="left" alt="Floplosion05's Discord" width="22px" src="https://raw.githubusercontent.com/Floplosion05/Floplosion05/master/assets/discord.svg"/></a>SQAT | Floplosion05#9866</li>
