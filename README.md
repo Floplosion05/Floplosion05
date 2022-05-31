@@ -15,7 +15,7 @@ self-taught hobby programmer. Im currently automating everything i can around my
 # My Tools
 <ul>
   <li><a href="https://nodered.org/"><img align="left" alt="Node-RED Logo" width="22px" src="https://raw.githubusercontent.com/Floplosion05/Floplosion05/master/assets/nodered.svg">Node-RED</a></li>
-  <li><a href="https://code.visualstudio.com/"><img align="left" alt="VS-Code Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">VS-Code</a></li>
+  <li><a href="https://code.visualstudio.com/"><img align="left" alt="VS-Code Logo" width="22px" src="https://raw.githubusercontent.com/Floplosion05/Floplosion05/master/assets/vscode.svg">VS-Code</a></li>
 </ul>
 
 # Todoist Stats
