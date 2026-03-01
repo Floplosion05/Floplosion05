@@ -18,4 +18,4 @@ self-taught hobby programmer. Im currently automating everything i can around my
 
 # Social
 <ul>
-  <li><a href="https://www.discord.com"><img align="left" alt="Floplosion05's Discord" width="22px" src="https://raw.githubusercontent.com/Floplosion05/Floplosion05/master/assets/discord.svg"/></a>floplosion#1177</li>
+  <li><a href="https://www.discord.com"><img align="left" alt="Floplosion05's Discord" width="22px" src="https://raw.githubusercontent.com/Floplosion05/Floplosion05/master/assets/discord.svg"/></a>floplosion</li>
